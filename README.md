@@ -47,6 +47,6 @@ All assignments were implemented using **Quartus** and focus on digital system d
 
 ## License
 
-These projects are for educational purposes under Digital Electronics coursework.
+These projects are for educational purposes under NMJ31804 - Digital Electronics coursework.
 You may modify and use this project for learning, but proper credit to the author is appreciated.
 
