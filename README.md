@@ -3,6 +3,8 @@
 This repository contains lab work and a mini project completed as part of the *Principle of Computer Architecture* course.  
 All assignments were implemented using **Quartus** and focus on digital system design concepts such as ALU, FSM, Memory, and CPU design.
 
+---
+
 ## Contents
 - **Lab 2: ALU Design**  
   [Lab_2_ALU.pdf] – Design and implementation of an Arithmetic Logic Unit.  
@@ -23,12 +25,16 @@ All assignments were implemented using **Quartus** and focus on digital system d
 - **Mini Project: 16-bit CPU Design**  
   [Mini Project POCA.pdf] – CPU design using Quartus.  
   [NMJ31804 Mini Project Report Group.pdf]
-  
+ 
+---
+ 
 ## Tools & Technologies
 - Quartus Prime
 - Verilog HDL
 - Digital Logic Design concepts
 - Computer Architecture fundamentals
+
+---
 
 ## How to Use
 - All reports are available as PDF files for quick reference.
@@ -37,5 +43,10 @@ All assignments were implemented using **Quartus** and focus on digital system d
   - Create a new project.
   - Implement based on the design described in each lab/project report.
 
+---
+
 ## License
-This project is licensed under the [MIT License](./LICENSE).
+
+These projects are for educational purposes under Digital Electronics coursework.
+You may modify and use this project for learning, but proper credit to the author is appreciated.
+
